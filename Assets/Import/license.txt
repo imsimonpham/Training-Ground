@@ -1,0 +1,11 @@
+Model Information:
+* title:	SMG-211
+* source:	https://sketchfab.com/3d-models/smg-211-e876d4fa86cf4ab3add0e551ea1b4d28
+* author:	Frostoise (https://sketchfab.com/Frostoise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SMG-211" (https://sketchfab.com/3d-models/smg-211-e876d4fa86cf4ab3add0e551ea1b4d28) by Frostoise (https://sketchfab.com/Frostoise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
